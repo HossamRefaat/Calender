@@ -1,6 +1,5 @@
-This is a basic Calendar program and it can save your notes using windows form and c# programming language 
-**** How you can open it ****
-1- download files on your machine 
-2- open the file with the name WindowsFormsApplication1 (you must have visual stdio code on your machine
-3- click on play sign to run the code or (ctrl + f5)
+This is a basic calendar program that can save your notes using Windows Forms and the C# programming language. To open it, follow these steps:
 
+Download the files onto your computer.
+Open the file named WindowsFormsApplication1 using Visual Studio Code (which must be installed on your computer).
+Click on the play button to run the code or use the shortcut Ctrl + F5.
